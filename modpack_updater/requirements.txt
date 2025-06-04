@@ -1,0 +1,2 @@
+# No external Python packages required
+# Make sure 'git' is installed and available in PATH 
