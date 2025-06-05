@@ -20,7 +20,6 @@ CLIENT_SIDE_MODS = [
     'appleskin',
     'smoothchunk',
     'VisualWorkbench',
-    'EasyAnvils',
     'NaturesCompass',
     'rightclickharvest',
     'LeavesBeGone',
@@ -28,14 +27,11 @@ CLIENT_SIDE_MODS = [
     'emi',
     'jei',
     'craftingtweaks',
-    'guideme',
     'fast-ip-ping',
     'toofast',
-    'Patchouli',
     'Controlling',
     'EnchantmentDescriptions',
     'Searchables',
-    'comforts',
     'embeddium',
     'freecam'
 ]
